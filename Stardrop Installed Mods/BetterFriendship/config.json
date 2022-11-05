@@ -1,6 +1,6 @@
 {
   "DisplayTalkPrompts": true,
-  "DisplayGenericGiftPrompts": true,
+  "DisplayGenericGiftPrompts": false,
   "GiftCycleDelay": 2000,
   "IgnoreMaxedFriendships": true,
   "SpousePromptsOverride": false,
