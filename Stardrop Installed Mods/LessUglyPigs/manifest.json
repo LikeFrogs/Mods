@@ -1,0 +1,12 @@
+{
+   "Name": "Less Ugly Pigs",
+   "Author": "samrux",
+   "Version": "1.0",
+   "Description": "Tweaked adult pigs to look less ugly",
+   "UniqueID": "samrux.lessuglypigs",
+   "MinimumApiVersion": "2.5.2",
+   "UpdateKeys": ["Nexus:"],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}

@@ -1,0 +1,10 @@
+﻿[
+	{
+		"ProducerName": "Mayonnaise Machine", 
+		"InputIdentifier": "Blue Egg", 
+		"InputStack": 1,
+		"MinutesUntilReady": 240,
+		"OutputIdentifier": "Blue Mayonnaise",
+		"KeepInputQuality": false
+	},
+]

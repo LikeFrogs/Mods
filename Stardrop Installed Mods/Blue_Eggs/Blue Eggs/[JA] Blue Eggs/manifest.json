@@ -1,0 +1,8 @@
+{
+	"Name": "[JA] Blue Eggs",
+	"Author": "bluechicken",
+	"Version": "1.2.1",
+	"Description": "Adds blue eggs and mayo to the game.",
+	"UniqueID": "bluechicken.blueeggsforJsonAssets",
+	"ContentPackFor": { "UniqueID": "spacechase0.JsonAssets" }
+}

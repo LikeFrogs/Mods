@@ -1,0 +1,10 @@
+{
+	"Name": "[CP] Blue Eggs",
+	"Author": "bluechicken",
+	"Version": "1.2.1",
+	"Description": "Makes Blue Chickens lay blue eggs",
+	"UniqueID": "bluechicken.blueeggs",
+	"UpdateKeys": ["Nexus:5875"],
+	"Dependencies": [{ "UniqueID": "spacechase0.JsonAssets" }],
+	"ContentPackFor": { "UniqueID": "Pathoschild.ContentPatcher" }
+}

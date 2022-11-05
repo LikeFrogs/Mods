@@ -1,0 +1,9 @@
+﻿{
+	"Name": "[PFM] Blue Eggs",
+	"Author": "bluechicken",
+	"Version": "1.2.1",
+	"Description": "Allows blue eggs to make blue mayo.",
+	"UniqueID": "bluechicken.blueeggsForProducerFrameworkMod",
+	"Dependencies": [{ "UniqueID": "DIGUS.ProducerFrameworkMod" }],
+	"ContentPackFor": { "UniqueID": "DIGUS.ProducerFrameworkMod" }
+}

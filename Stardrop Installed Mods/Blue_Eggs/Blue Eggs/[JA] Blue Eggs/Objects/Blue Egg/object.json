@@ -1,0 +1,7 @@
+{
+	"Name": "Blue Egg", 
+	"Description": "A mystical egg, only known to come from blue chickens native to the Ferngill Islands. Cannot be used in recipes due to its volatile nature. Cannot be incubated.", 
+	"Category": "AnimalGoods",
+	"Edibility": 20, 
+	"Price": 100
+}
