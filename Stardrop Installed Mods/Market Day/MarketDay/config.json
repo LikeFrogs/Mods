@@ -51,7 +51,7 @@
   "OpenWeek4": true,
   "OpeningTime": 8,
   "ClosingTime": 18,
-  "NumberOfShops": 8,
+  "NumberOfShops": 7,
   "OpenInRain": false,
   "OpenInSnow": false,
   "GMMCompat": false,
