@@ -1,6 +1,12 @@
+#most people don't want daily screenshot
 Stardrop Installed Mods/DailyScreenshot
-Stardrop Installed Mods/[CP] Seasonal Cute Characters/config.json
 
-Stardrop Installed Mods/HappyBirthday/data/*
-Stardrop Installed Mods/NPCMapLocations/config/*.json
-Stardrop Installed Mods/UIInfoSuite2/data/*.json
+#computer specific setting files
+*/[CP] Seasonal Cute Characters/config.json
+*/HappyBirthday/data/*
+*/NPCMapLocations/config/*.json
+*/UIInfoSuite2/data/*.json
+*/FarmTypeManager/data/*.json
+
+#save files
+*.save
