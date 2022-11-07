@@ -6,7 +6,7 @@
         "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
-        "Tile": "102, 57"
+        "Tile": "101, 57"
       },
       "AcceptedItems": {}
     },
@@ -15,7 +15,7 @@
         "LocationType": "Normal",
         "LocationName": "Farm",
         "BuildingName": "",
-        "Tile": "101, 57"
+        "Tile": "109, 40"
       },
       "AcceptedItems": {}
     },
