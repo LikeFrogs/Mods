@@ -1,0 +1,13 @@
+{
+   "Name": "Craftable Mushroom Boxes",
+   "Author": "foggywizard",
+   "Version": "1.6.1",
+   "Description": "Lets you make mushroom boxes.",
+   "UniqueID": "foggy.makemushbox",
+   "MinimumApiVersion": "2.6",
+   "UpdateKeys": [ "Nexus:10296" ],
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "MinimumVersion": "1.24.0"
+   }
+}

@@ -1,0 +1,47 @@
+{
+	"Format": "1.24.0",
+	"ConfigSchema": {
+		"Item1type": { "Default": "709", "Description": "All Itemtypes need a whole number value relating to an object id. All ItemAmounts need a non-zero value"  },
+		"Item1Amount": { "Default": "10"  },
+		"Item2type": { "Default": "368"  },
+		"Item2Amount": { "Default": "3"  },
+		"Item3type": { "Default": "557"  },
+		"Item3Amount": { "Default": "3"  },
+		"Item4type": { "Default": "725"  },
+		"Item4Amount": { "Default": "1"  },
+	},
+    "Changes": [
+        {
+        "Action": "EditData",
+        "Target": "Data/CraftingRecipes",
+        "Entries":  {
+				"Mushroom Box": "{{Item1type}} {{Item1Amount}} {{Item2type}} {{Item2Amount}} {{Item3type}} {{Item3Amount}} {{Item4type}} {{Item4Amount}}/Home/128/true/1 2/{{i18n: mushbox}}",
+            },
+        },
+		{
+		"Action": "EditData",
+		"Target": "Data/Events/Farm",
+		"Entries":  { "9925530/f Demetrius 750/m 40000/x demetriboxBats true": "null"	},
+		"When": {"FarmCave": "Bats" },
+		},
+		{
+		"Action": "EditData",
+		"Target": "Data/Events/Farm",
+		"Entries":  { "9925530/f Demetrius 750/m 40000/x demetriboxMushrooms true": "null"	},
+		"When": {"FarmCave": "Mushrooms" },
+		},
+		{
+		"Action": "EditData",
+		"Target": "Data/Mail",
+		"Entries":  { 
+				"demetriboxBats": "{{i18n: demebats}}",
+				"demetriboxMushrooms": "{{i18n: demeshrooms}}"
+			},
+		},
+		{
+		"Action": "EditData",
+		"Target": "Data/BigCraftablesInformation",
+		"Fields":  { "128": { 7: "0" }	},
+		}
+	]
+}	

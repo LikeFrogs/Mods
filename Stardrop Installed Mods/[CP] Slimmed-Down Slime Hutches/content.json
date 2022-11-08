@@ -1,0 +1,12 @@
+{
+ "Format": "1.18",
+ "Changes": [
+       {
+			"Action": "EditData",
+			"Target": "Data/Blueprints",
+			"Fields": {
+				"Slime Hutch": { 1:"11", 2:"4", 3:"5", 4:"3" }
+			}
+       }
+    ] 
+}

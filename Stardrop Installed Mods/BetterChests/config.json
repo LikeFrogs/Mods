@@ -1,7 +1,7 @@
 {
   "BetterShippingBin": true,
   "CarryChestLimit": 1,
-  "CarryChestSlowAmount": 1,
+  "CarryChestSlowAmount": 2,
   "ChestFinder": true,
   "ControlScheme": {
     "CloseChestFinder": "Escape",
