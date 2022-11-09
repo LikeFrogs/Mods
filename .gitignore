@@ -3,7 +3,7 @@ Stardrop Installed Mods/DailyScreenshot
 
 #computer specific setting files
 */[CP] Seasonal Cute Characters/config.json
-*/HappyBirthday/data/*.json
+*/HappyBirthday/data/*
 */NPCMapLocations/config/*.json
 */UIInfoSuite2/data/*.json
 */FarmTypeManager/data/*.json
