@@ -1,0 +1,14 @@
+﻿{
+	"Name": "DGA Alternative Picture Frames",
+	"Author": "aedenthorn",
+	"Version": "0.1.0",
+	"Description": "AlternativePictureFramesDGA",
+	"UniqueID": "aedenthorn.AlternativePictureFramesDGA",
+	"MinimumApiVersion": "3.13.0",
+	"ContentPackFor": {
+		"UniqueID": "spacechase0.DynamicGameAssets"
+	},
+	"UpdateKeys": [ "Nexus:10709" ],
+	"DGA.FormatVersion": 2,
+	"DGA.ConditionsFormatVersion": "1.23.0"
+}

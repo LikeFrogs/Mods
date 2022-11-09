@@ -1,0 +1,12 @@
+{
+  "furniture.TriangleRockFrame32x32.name": "Triangle 2x2 Frame",
+  "furniture.TriangleRockFrame32x32.description": "A triangle picture frame, 2 by 2 tiles.",
+  "furniture.MetalFrame32x32.name": "Metal 2x2 Frame",
+  "furniture.MetalFrame32x32.description": "A metal picture frame, 2 by 2 tiles.",
+  "furniture.PurpleFrame32x32.name": "Purple 2x2 Frame",
+  "furniture.PurpleFrame32x32.description": "A purple picture frame, 2 by 2 tiles.",
+  "furniture.RoundBlueFrame32x32.name": "Round 2x2 Frame",
+  "furniture.RoundBlueFrame32x32.description": "A round picture frame, 2 by 2 tiles.",
+  "furniture.IslandFrame48x48.name": "Island 3x3 Frame",
+  "furniture.IslandFrame48x48.description": "A jungle-themed picture frame, 3 by 3 tiles.",
+}

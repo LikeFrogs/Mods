@@ -1,0 +1,41 @@
+﻿{
+	"Format": "1.23.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "custom_picture_frame_dictionary",
+			"Entries": {
+				"PurpleFrame32x32":"AlternativePictureFrames/PurpleFrame32x32", 
+				"MetalFrame32x32":"AlternativePictureFrames/MetalFrame32x32", 
+				"TriangleRockFrame32x32":"AlternativePictureFrames/TriangleRockFrame32x32", 
+				"RoundBlueFrame32x32":"AlternativePictureFrames/RoundBlueFrame32x32", 
+				"IslandFrame48x48":"AlternativePictureFrames/IslandFrame48x48"
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "AlternativePictureFrames/PurpleFrame32x32",
+			"FromFile": "assets/PurpleFrame32x32.png"
+        },
+		{
+			"Action": "Load",
+			"Target": "AlternativePictureFrames/MetalFrame32x32",
+			"FromFile": "assets/MetalFrame32x32.png"
+        },
+		{
+			"Action": "Load",
+			"Target": "AlternativePictureFrames/TriangleRockFrame32x32",
+			"FromFile": "assets/TriangleRockFrame32x32.png"
+        },
+		{
+			"Action": "Load",
+			"Target": "AlternativePictureFrames/RoundBlueFrame32x32",
+			"FromFile": "assets/RoundBlueFrame32x32.png"
+        },
+		{
+			"Action": "Load",
+			"Target": "AlternativePictureFrames/IslandFrame48x48",
+			"FromFile": "assets/IslandFrame48x48.png"
+        }
+	]
+}

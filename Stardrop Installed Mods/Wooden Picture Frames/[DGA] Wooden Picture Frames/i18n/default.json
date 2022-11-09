@@ -1,0 +1,12 @@
+{
+  "furniture.WoodenFrame48x32.name": "Wooden 3x2 Frame",
+  "furniture.WoodenFrame48x32.description": "A wooden picture frame, 3 by 2 tiles.",
+  "furniture.WoodenFrame16x32.name": "Wooden 1x2 Frame",
+  "furniture.WoodenFrame16x32.description": "A wooden picture frame, 1 by 2 tiles.",
+  "furniture.WoodenFrame32x32.name": "Wooden 2x2 Frame",
+  "furniture.WoodenFrame32x32.description": "A wooden picture frame, 2 by 2 tiles.",
+  "furniture.WoodenFrame48x48.name": "Wooden 3x3 Frame",
+  "furniture.WoodenFrame48x48.description": "A wooden picture frame, 3 by 3 tiles.",
+  "furniture.RockFrame32x32.name": "Triangle 2x2 Frame",
+  "furniture.RockFrame32x32.description": "A triangle picture frame, 2 by 2 tiles."
+}

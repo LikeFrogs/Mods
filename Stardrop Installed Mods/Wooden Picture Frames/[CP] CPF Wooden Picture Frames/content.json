@@ -1,0 +1,35 @@
+﻿{
+	"Format": "1.23.0",
+	"Changes": [
+		{
+			"Action": "EditData",
+			"Target": "custom_picture_frame_dictionary",
+			"Entries": {
+				"WoodenFrame16x32":"WoodenPictureFrames/WoodenFrame16x32", 
+				"WoodenFrame32x32":"WoodenPictureFrames/WoodenFrame32x32", 
+				"WoodenFrame48x32":"WoodenPictureFrames/WoodenFrame48x32", 
+				"WoodenFrame48x48":"WoodenPictureFrames/WoodenFrame48x48", 
+			}
+		},
+		{
+			"Action": "Load",
+			"Target": "WoodenPictureFrames/WoodenFrame16x32",
+			"FromFile": "assets/WoodenFrame16x32.png"
+        },
+		{
+			"Action": "Load",
+			"Target": "WoodenPictureFrames/WoodenFrame32x32",
+			"FromFile": "assets/WoodenFrame32x32.png"
+        },
+		{
+			"Action": "Load",
+			"Target": "WoodenPictureFrames/WoodenFrame48x32",
+			"FromFile": "assets/WoodenFrame48x32.png"
+        },
+		{
+			"Action": "Load",
+			"Target": "WoodenPictureFrames/WoodenFrame48x48",
+			"FromFile": "assets/WoodenFrame48x48.png"
+        }
+	]
+}

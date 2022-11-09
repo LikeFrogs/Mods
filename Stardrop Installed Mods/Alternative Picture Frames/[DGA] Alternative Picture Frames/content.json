@@ -1,0 +1,127 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "TriangleRockFrame32x32",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/TriangleRockFrame32x32.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "MetalFrame32x32",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/MetalFrame32x32.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "PurpleFrame32x32",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/PurpleFrame32x32.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "RoundBlueFrame32x32",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/RoundBlueFrame32x32.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "IslandFrame48x48",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/IslandFrame48x48.png",
+				"DisplaySize": {
+					"X": 3,
+					"Y": 3
+				},
+				"CollisionHeight": 3
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.AlternativePictureFramesDGA/MetalFrame32x32"
+		}
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.AlternativePictureFramesDGA/PurpleFrame32x32"
+		}
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.AlternativePictureFramesDGA/TriangleRockFrame32x32"
+		}
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.AlternativePictureFramesDGA/RoundBlueFrame32x32"
+		}
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.AlternativePictureFramesDGA/IslandFrame48x48"
+		}
+	}
+]

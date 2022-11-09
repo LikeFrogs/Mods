@@ -1,0 +1,102 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "WoodenFrame48x32",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/WoodenFrame48x32.png",
+				"DisplaySize": {
+					"X": 3,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "WoodenFrame16x32",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/WoodenFrame16x32.png",
+				"DisplaySize": {
+					"X": 1,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "WoodenFrame48x48",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/WoodenFrame48x48.png",
+				"DisplaySize": {
+					"X": 3,
+					"Y": 3
+				},
+				"CollisionHeight": 3
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "WoodenFrame32x32",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/WoodenFrame32x32.png",
+				"DisplaySize": {
+					"X": 2,
+					"Y": 2
+				},
+				"CollisionHeight": 2
+			}
+		]
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.WoodenPictureFramesDGA/WoodenFrame16x32"
+		}
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.WoodenPictureFramesDGA/WoodenFrame48x48"
+		}
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.WoodenPictureFramesDGA/WoodenFrame48x32"
+		}
+	},	
+	{
+		"$ItemType": "ShopEntry",
+		"ShopId": "Carpenter",
+		"MaxSold": 10,
+		"Cost": 100,
+		"Item": {
+			"Type": "DGAItem",
+			"Value": "aedenthorn.WoodenPictureFramesDGA/WoodenFrame32x32"
+		}
+	}
+]

@@ -1,0 +1,12 @@
+{
+    "Name": "[CP] CPF Alternative Frames",
+    "Author": "aedenthorn",
+    "Version": "0.1.1",
+    "Description": "CP CPF Alternative Frames",
+    "UniqueID": "aedenthorn.CPFAlternativeFramesCP",
+    "MinimumApiVersion": "3.13.0",
+    "UpdateKeys": [ "Nexus:10709" ],
+    "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    }
+ }
