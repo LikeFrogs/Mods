@@ -1,0 +1,213 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Window 1",
+		"Type": "Window",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:72",
+				"NightTexture": "assets/2x1.png:73",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Window 2",
+		"Type": "Window",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:74",
+				"NightTexture": "assets/2x1.png:75",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Window 3",
+		"Type": "Window",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:76",
+				"NightTexture": "assets/2x1.png:77",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Window 4",
+		"Type": "Window",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:78",
+				"NightTexture": "assets/2x1.png:79",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Hanging Plant 1",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:80",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Hanging Plant 2",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:81",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Hanging Leaves",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:82",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Sconce",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:37",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Shelf 1",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:51",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2.5
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Shelf 2",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:12",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2.5
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Mirror",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:45",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2.5
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Ladder",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/3x1.png:6",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Map",
+		"Type": "Painting",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:23",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Rug 1",
+		"Type": "Rug",
+		"Configurations": [
+			{
+				"Texture": "assets/3x2.png:0",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/2x3.png:9",
+				"DisplaySize": { "X": 3, "Y": 2},
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Rug 2",
+		"Type": "Rug",
+		"Configurations": [
+			{
+				"Texture": "assets/3x2.png:1",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/2x3.png:4",
+				"DisplaySize": { "X": 3, "Y": 2},
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Rug 3",
+		"Type": "Rug",
+		"Configurations": [
+			{
+				"Texture": "assets/3x2.png:2",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/2x3.png:14",
+				"DisplaySize": { "X": 3, "Y": 2},
+				"CollisionHeight": 2
+			},
+		]
+	},
+]

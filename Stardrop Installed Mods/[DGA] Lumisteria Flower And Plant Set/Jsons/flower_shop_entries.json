@@ -1,0 +1,965 @@
+[
+  // Sell flowers and plants on various days at Robin's
+  // Sell cacti and succlents at Robin's on Wednesdays
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant1" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant2" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant3" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant4" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant5" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant6" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant7" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant8" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant9" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant10" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant11" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant12" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant13" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Wednesday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  // Sell seasonal tall plants plus non-seasonal versions at Robin's on Fridays
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant14" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant15" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant16" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant17" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/SeasonalPlant18" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  // Sell other tall plants at Robin's on Mondays
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant19" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Monday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant20" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Monday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant21" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Monday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant22" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Monday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant23" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Monday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant24" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Monday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  // Sell glass and water plants at Robin's on Thursdays
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant25" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/PondPlant26" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/PondPlant27" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/PondPlant28" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/PondPlant29" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant30" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant31" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant32" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant33" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant34" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/SeasonalPlant35" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Thursday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  // Sell all the hanging baskets at Robin's on Saturdays
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket36" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Saturday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket37" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Saturday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket38" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Saturday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket39" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Saturday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket40" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Saturday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/SeasonalBasket41" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Saturday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  // Sell all the vases at Robin's on Sundays
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase1" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase2" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase3" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase4" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase5" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase6" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase7" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase8" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase9" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase10" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase11" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase12" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Sunday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+
+  // Sell flowers and plants at Hat Mouse always
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant1" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant2" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant3" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant4" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant5" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant6" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant7" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant8" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant9" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant10" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant11" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant12" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant13" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant14" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant15" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant16" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant17" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/SeasonalPlant18" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant19" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant20" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant21" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant22" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant23" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant24" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Plant25" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/PondPlant26" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/PondPlant27" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/PondPlant28" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/PondPlant29" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant30" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant31" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant32" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant33" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/TallPlant34" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/SeasonalPlant35" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket36" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket37" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket38" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket39" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Basket40" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/SeasonalBasket41" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase1" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase2" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase3" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase4" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase5" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase6" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase7" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase8" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase9" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase10" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase11" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet/Vase12" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+  },
+]

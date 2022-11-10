@@ -1,0 +1,14 @@
+{
+    "Name": "Blacksmith Furniture",
+    "Author": "Spotteddotted",
+    "Version": "1.0.0",
+    "Description": "Adds new furniture to game",
+    "UniqueID": "Spotteddotted.DGA.BlacksmithFurniture",
+    "UpdateKeys": ["Nexus:12783"],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.DynamicGameAssets",
+        "MinimumVersion": "1.4.2"
+    },
+    "DGA.FormatVersion": 2,
+    "DGA.ConditionsFormatVersion": "1.25.0"
+}

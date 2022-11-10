@@ -1,0 +1,758 @@
+[
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakTableGreenTablecloth0"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/RoundOakTableGreenTablecloth1"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakOldBureauTable2"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 600,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakDesk3"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 600,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakSmallTableGreenTablecloth4"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 550,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakRusticDinnertable5"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 2000,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakBasicEndTable6"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 500,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakCoffeeTable7"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/SewingCabinet8"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakPlainCabinet9"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakPlainCabinet10"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakPlainCabinet11"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakFilingCabinet12"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakBookcase14"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakBookcase15"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1500,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakCabinet16"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakBasicArmoire17"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakElegantArmoire18"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakCabinet19"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakGreenStool20"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 350,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakCushionedBench21"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 500,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/GreenCouch22"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakLargeStool23"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/GreenCushion24"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/GreenRug25"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/GreenFoldingScreen26"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/GreenFoldingScreen27"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1500,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Shelf28"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Shelf29"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Shelf30"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/CoatRack31"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/HangingHotPeppers32"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/SquirrelStatue33"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 600,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Potofcolors34"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Potofcolors35"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Potofcolors36"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Fabric37"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakPiano38"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 5000,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakFloorLamp39"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakVaseWithFlower40"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakVase41"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/AnimalBed42"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 500,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Plush43"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Plant44"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OldClock45"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Windows46"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Windows47"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 500,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Candles48"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Canvas49"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OakStool50"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Clothes51"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 150,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/GreenCeilingFlags52"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 50,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Weathgrassfield53"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 800,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/TheTower54"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/HotAirBalloon55"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/OldLadyPainting56"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/ChooChoo57"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1500,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Junimo58"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Junimo59"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Junimo60"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Junimo61"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Junimo62"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaOakFurniture/Junimo63"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Monday",
+        }
+    }
+]

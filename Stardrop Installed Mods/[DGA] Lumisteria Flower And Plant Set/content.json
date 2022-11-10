@@ -1,0 +1,11 @@
+[    // Loads furniture Json
+    {
+        "$ItemType": "ContentIndex",
+        "FilePath": "Jsons/flowers_DGA.json"
+    },
+    // Loads shop entries Json
+    {
+        "$ItemType": "ContentIndex",
+        "FilePath": "Jsons/flower_shop_entries.json"
+    },
+]

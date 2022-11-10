@@ -1,0 +1,435 @@
+[
+    // Load in the bug posters
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug1",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:0",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug2",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:1",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug3",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:2",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug4",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:3",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug5",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:4",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug6",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:5",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug7",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:6",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug8",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:7",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug9",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:8",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug10",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:9",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug11",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:10",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug12",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:11",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug13",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:12",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug14",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:13",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug15",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:14",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug16",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:15",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug17",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:16",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug18",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:17",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug19",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:18",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug20",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:19",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug21",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:20",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug22",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:21",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug23",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:22",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug24",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:23",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug25",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:24",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug26",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:25",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug27",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:26",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug28",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:27",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug29",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:28",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug30",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:29",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug31",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:30",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug32",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:31",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug33",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:32",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug34",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:33",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug35",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:34",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bug36",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:35",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+]

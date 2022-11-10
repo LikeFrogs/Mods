@@ -1,0 +1,164 @@
+[
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/GamingConsole0" },
+    "ShopId": "Carpenter",
+    "Cost": 1500,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/VideoGameConsole1" },
+    "ShopId": "Carpenter",
+    "Cost": 100,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/Computers2" },
+    "ShopId": "Carpenter",
+    "Cost": 700,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/Monitor3" },
+    "ShopId": "Carpenter",
+    "Cost": 1000,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/Computer4" },
+    "ShopId": "Carpenter",
+    "Cost": 600,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/HangingSword5" },
+    "ShopId": "Carpenter",
+    "Cost": 900,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/SkinnedBear6" },
+    "ShopId": "Carpenter",
+    "Cost": 5000,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/Map7" },
+    "ShopId": "Carpenter",
+    "Cost": 400,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/LeaningSword8" },
+    "ShopId": "Carpenter",
+    "Cost": 850,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/ProfiledComputer9" },
+    "ShopId": "Carpenter",
+    "Cost": 300,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/Laptop10" },
+    "ShopId": "Carpenter",
+    "Cost": 900,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/NotBrandedMusicPlayer11" },
+    "ShopId": "Carpenter",
+    "Cost": 3000,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/LightComputerDesk12" },
+    "ShopId": "Carpenter",
+    "Cost": 1400,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/DarkComputerDesk13" },
+    "ShopId": "Carpenter",
+    "Cost": 1400,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/ComputerDeskinProfile14" },
+    "ShopId": "Carpenter",
+    "Cost": 1600,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/HangingEmblem15" },
+    "ShopId": "Carpenter",
+    "Cost": 2400,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/QuestBoard16" },
+    "ShopId": "Carpenter",
+    "Cost": 1200,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.MiscFurniture/ArcadeSign17" },
+    "ShopId": "Carpenter",
+    "Cost": 5000,
+    "EnableConditions": {
+        "DayOfWeek": "Wednesday",
+    }
+  },
+]

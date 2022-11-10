@@ -1,0 +1,11 @@
+[    // Loads furniture Json
+    {
+        "$ItemType": "ContentIndex",
+        "FilePath": "Jsons/banners_DGA.json"
+    },
+    // Loads shop entries Json
+    {
+        "$ItemType": "ContentIndex",
+        "FilePath": "Jsons/banner_shop_entries.json"
+    },
+]

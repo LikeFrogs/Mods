@@ -1,0 +1,674 @@
+[
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTableCreamyLacyTablecloth0"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTable1"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTableCreamyTablecloth2"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 2000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutBookcase3"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutBookcase4"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutCabinet5"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutCabinet6"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTableCreamyLacyTablecloth7"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTable8"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTableCreamyLacyTablecloth9"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTable10"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutEndTableCreamyLacyTablecloth11"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutEndTable12"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutVintageRadioFurniture13"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutDesk14"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutEndTable15"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutEndTable16"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTeaTable17"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutTableCreamyTablecloth18"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/SewingCabinet19"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutDresserCreamyLacyTablecloth20"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WalnutStool21"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CreamyCushion22"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 125,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/RockingHorse23"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 2500,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/SpinningWheel24"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 2500,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/LavenderFields25"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WoodenJunimo26"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CreamyJunimo27"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Junimo28"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Junimo29"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Junimo30"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Junimo31"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Lamp32"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CreamyFoldingScreen33"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 2000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CreamyFoldingScreen34"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 2000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CreamyArmchair35"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Mirror36"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CreamyCouch37"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 2000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Game38"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CreamyFabric39"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/HangingDecorations40"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 50,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CushionedChair41"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Moon42"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/CreamyRug43"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/SmallWindows44"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/PorcelainVase45"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 500,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/PorcelainVaseWithLavender46"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Dresser47"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/EndTable48"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/WashBasin49"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 750,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Bookcase50"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Cabinet51"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Bookcase52"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Bookcase53"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Bookcase54"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Lumisteria.DGA.LumisteriaWalnutFurniture/Towel55"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 250,
+        "EnableConditions": {
+            "DayOfWeek": "Tuesday",
+        }
+    }
+]

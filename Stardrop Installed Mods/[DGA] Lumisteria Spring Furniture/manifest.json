@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Lumisteria Spring Set of Furniture",
+  "Author": "Lumisteria",
+  "Version": "1.0.1",
+  "Description": "A custom set of furniture with a spring theme.",
+  "UniqueID": "Lumisteria.DynamicGameAssets.SpringFurniture",
+  "UpdateKeys": ["Nexus:9733@Spring"],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets",
+    "MinimumVersion": "1.1.0"
+  },
+  "DGA.FormatVersion": 2,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

@@ -1,0 +1,317 @@
+[
+  // Sell plush at Marnie's and furniture at Robin's in the spring
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bunny37" },
+    "ShopId": "AnimalSupplies",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Elephant38" },
+    "ShopId": "AnimalSupplies",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Tiger39" },
+    "ShopId": "AnimalSupplies",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Cabinet40" },
+    "ShopId": "Carpenter",
+    "Cost": 4500,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Dresser41" },
+    "ShopId": "Carpenter",
+    "Cost": 2500,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Table42" },
+    "ShopId": "Carpenter",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Painting43" },
+    "ShopId": "Carpenter",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Tree44" },
+    "ShopId": "Carpenter",
+    "Cost": 3500,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Rug45" },
+    "ShopId": "Carpenter",
+    "Cost": 1500,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Chair46" },
+    "ShopId": "Carpenter",
+    "Cost": 2500,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Table47" },
+    "ShopId": "Carpenter",
+    "Cost": 3500,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bookcase48" },
+    "ShopId": "Carpenter",
+    "Cost": 5000,
+    "DynamicFields": [
+      {
+        "Conditions": { 
+          "Season |contains=spring": false,
+        },
+        "Enabled": false,
+      }
+    ]
+  },
+
+  // Sell furniture at Hat Mouse always during spring
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bunny37" },
+    "ShopId": "HatMouse",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Elephant38" },
+    "ShopId": "HatMouse",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Tiger39" },
+    "ShopId": "HatMouse",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Cabinet40" },
+    "ShopId": "HatMouse",
+    "Cost": 4500,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Dresser41" },
+    "ShopId": "HatMouse",
+    "Cost": 2500,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Table42" },
+    "ShopId": "HatMouse",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Painting43" },
+    "ShopId": "HatMouse",
+    "Cost": 2000,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Tree44" },
+    "ShopId": "HatMouse",
+    "Cost": 3500,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Rug45" },
+    "ShopId": "HatMouse",
+    "Cost": 1500,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Chair46" },
+    "ShopId": "HatMouse",
+    "Cost": 2500,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Table47" },
+    "ShopId": "HatMouse",
+    "Cost": 3500,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bookcase48" },
+    "ShopId": "HatMouse",
+    "Cost": 5000,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+]

@@ -1,0 +1,19 @@
+[    // Loads furniture Json
+    {
+        "$ItemType": "ContentIndex",
+        "FilePath": "Jsons/bugs_DGA.json"
+    },
+    {
+        "$ItemType": "ContentIndex",
+        "FilePath": "Jsons/spring_furniture_DGA.json"
+    },
+    // Loads shop entries Json
+    {
+        "$ItemType": "ContentIndex",
+        "FilePath": "Jsons/bug_shop_entries.json"
+    },
+    {
+        "$ItemType": "ContentIndex",
+        "FilePath": "Jsons/spring_furniture_shop_entries.json"
+    },
+]

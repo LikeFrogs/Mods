@@ -1,0 +1,13 @@
+{
+	"Name": "DGA Victorian Furniture Port",
+	"Author": "KyraKinzie",
+	"Version": "0.1.1",
+	"Description": "DGA Port of Mioudew's Elegant Victorian Furniture",
+	"UniqueID": "kyrakinzie.VictorianDGA",
+	"MinimumApiVersion": "3.13.0",
+	"ContentPackFor": {
+		"UniqueID": "spacechase0.DynamicGameAssets"
+	},
+	"DGA.FormatVersion": 2,
+	"DGA.ConditionsFormatVersion": "1.23.0"
+}

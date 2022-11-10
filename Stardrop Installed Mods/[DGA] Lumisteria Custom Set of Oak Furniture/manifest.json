@@ -1,0 +1,14 @@
+{
+    "Name": "Lumisteria Custom Set of Oak Furniture",
+    "Author": "Lumisteria",
+    "Version": "1.0.0",
+    "Description": "A custom set of oak furniture matching some vanilla ones.",
+    "UniqueID": "Lumisteria.DGA.LumisteriaOakFurniture",
+    "UpdateKeys": ["Nexus:9733@Oak"],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.DynamicGameAssets",
+        "MinimumVersion": "1.4.2"
+    },
+    "DGA.FormatVersion": 2,
+    "DGA.ConditionsFormatVersion": "1.25.0"
+}

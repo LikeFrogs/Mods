@@ -1,0 +1,308 @@
+[
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/largeswings" },
+    "ShopId": "Carpenter",
+    "Cost": 2000,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/smallswings" },
+    "ShopId": "Carpenter",
+    "Cost": 1500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/climbingwall" },
+    "ShopId": "Carpenter",
+    "Cost": 2500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/bouncyduck" },
+    "ShopId": "Carpenter",
+    "Cost": 1500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/sandbox" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/purplesandbox" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/bluesandbox" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/childdrawing" },
+    "ShopId": "Carpenter",
+    "Cost": 500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/fingerpaintings" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/wallnotes" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/stickynotes" },
+    "ShopId": "Carpenter",
+    "Cost": 100,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/toydino" },
+    "ShopId": "Carpenter",
+    "Cost": 300,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/playdough" },
+    "ShopId": "Carpenter",
+    "Cost": 500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/decortable" },
+    "ShopId": "Carpenter",
+    "Cost": 900,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/purpletable" },
+    "ShopId": "Carpenter",
+    "Cost": 750,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/greentable" },
+    "ShopId": "Carpenter",
+    "Cost": 750,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/nailpolish" },
+    "ShopId": "Carpenter",
+    "Cost": 200,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/toybox" },
+    "ShopId": "Carpenter",
+    "Cost": 300,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/bluestool" },
+    "ShopId": "Carpenter",
+    "Cost": 500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/pinkstool" },
+    "ShopId": "Carpenter",
+    "Cost": 500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/soccerball" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/football" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/dollcollection" },
+    "ShopId": "Carpenter",
+    "Cost": 1250,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/heartposter" },
+    "ShopId": "Carpenter",
+    "Cost": 700,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/planeposter" },
+    "ShopId": "Carpenter",
+    "Cost": 600,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/fallenbook" },
+    "ShopId": "Carpenter",
+    "Cost": 250,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/heartsticker" },
+    "ShopId": "Carpenter",
+    "Cost": 500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/toyblocks" },
+    "ShopId": "Carpenter",
+    "Cost": 300,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/dollhouse" },
+    "ShopId": "Carpenter",
+    "Cost": 1250,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/sockmonkey" },
+    "ShopId": "Carpenter",
+    "Cost": 1300,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/jackinthebox" },
+    "ShopId": "Carpenter",
+    "Cost": 600,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/asstdtoys" },
+    "ShopId": "Carpenter",
+    "Cost": 200,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/things" },
+    "ShopId": "Carpenter",
+    "Cost": 500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Spotteddotted.DGA.KidsFurniture/cuteposter" },
+    "ShopId": "Carpenter",
+    "Cost": 500,
+    "EnableConditions": {
+        "DayOfWeek": "Friday",
+    }
+  },
+]

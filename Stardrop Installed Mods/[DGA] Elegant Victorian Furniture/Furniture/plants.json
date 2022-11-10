@@ -1,0 +1,111 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 0",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:52",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 1",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:53",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 2",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:54",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 3",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:55",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 4",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:56",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 5",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:61",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 6",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:58",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 7",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:59",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Plant 8",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:60",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+]

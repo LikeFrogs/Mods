@@ -1,0 +1,693 @@
+[
+    // Load in the furniture
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant1",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:0",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant2",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:1",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant3",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:2",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant4",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:3",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant5",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:4",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant6",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:5",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant7",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:6",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant8",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:7",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant9",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:12",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant10",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:13",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant11",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:14",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant12",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:15",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant13",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:16",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant14",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:8",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant15",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:9",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant16",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:10",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant17",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:11",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "SeasonalPlant18",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:12",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ],
+        "DynamicFields" : [
+            {
+                "Conditions": { "Season": "spring"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:8",
+            },
+            {
+                "Conditions": { "Season": "summer"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:9",
+            },
+            {
+                "Conditions": { "Season": "fall"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:10",
+            },
+            {
+                "Conditions": { "Season": "winter"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:11",
+            }
+        ],
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant19",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:13",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant20",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:14",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant21",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:15",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant22",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:16",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant23",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:17",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant24",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:18",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Plant25",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:31",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "PondPlant26",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:43",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "PondPlant27",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:32",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "PondPlant28",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:44",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "PondPlant29",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:11",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant30",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:24",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant31",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:26",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant32",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:27",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant33",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:28",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallPlant34",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:29",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "SeasonalPlant35",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:25",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ],
+        "DynamicFields" : [
+            {
+                "Conditions": { "Season": "spring"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:26",
+            },
+            {
+                "Conditions": { "Season": "summer"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:27",
+            },
+            {
+                "Conditions": { "Season": "fall"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:28",
+            },
+            {
+                "Conditions": { "Season": "winter"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:29",
+            }
+        ],
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Basket36",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:30",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Basket37",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:32",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Basket38",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:33",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Basket39",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:34",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Basket40",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:35",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "SeasonalBasket41",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:31",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ],
+        "DynamicFields" : [
+            {
+                "Conditions": { "Season": "spring"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:32",
+            },
+            {
+                "Conditions": { "Season": "summer"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:33",
+            },
+            {
+                "Conditions": { "Season": "fall"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:34",
+            },
+            {
+                "Conditions": { "Season": "winter"},
+                "Configurations[ 0 ].Texture": "Assets/lumisteria_flowerset.png:35",
+            }
+        ],
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase1",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:36",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase2",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:37",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase3",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:38",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase4",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:39",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase5",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:40",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase6",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:41",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase7",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:42",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase8",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:43",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase9",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:44",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase10",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:45",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase11",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:46",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Vase12",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteria_flowerset.png:47",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+]

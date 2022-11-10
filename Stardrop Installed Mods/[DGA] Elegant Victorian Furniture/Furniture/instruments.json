@@ -1,0 +1,176 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Viola",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:24",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},			
+			{
+				"Texture": "assets/2x1.png:25",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Violin",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:27",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},			
+			{
+				"Texture": "assets/2x1.png:28",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Electric Guitar (Black)",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:63",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},			
+			{
+				"Texture": "assets/2x1.png:64",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Electric Guitar (Tri)",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:66",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},			
+			{
+				"Texture": "assets/2x1.png:67",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Guitar",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:45",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},			
+			{
+				"Texture": "assets/2x1.png:46",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Banjo",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:48",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Electric Guitar (BW)",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:69",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},			
+			{
+				"Texture": "assets/2x1.png:70",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Banjo Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:32",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Keyboard",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:6",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Drums",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:7",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Cello",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x1.png:11",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Bass",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x1.png:12",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+]

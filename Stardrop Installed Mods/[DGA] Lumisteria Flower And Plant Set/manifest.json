@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Lumisteria Flower Set",
+  "Author": "Lumisteria",
+  "Version": "1.0.0",
+  "Description": "A custom set of flower furniture matching some vanilla ones.",
+  "UniqueID": "Lumisteria.DynamicGameAssets.DGAFlowerAndPlantSet",
+  "UpdateKeys": ["Nexus:9733@Flowers"],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets",
+    "MinimumVersion": "1.1.0"
+  },
+  "DGA.FormatVersion": 2,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

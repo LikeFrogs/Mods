@@ -1,0 +1,132 @@
+[
+  // Sell banner at Robin's on Fridays
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/IrisBanner" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/ForgetMeNotBanner" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/AsterBanner" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/PoppyBanner" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/RoseBanner" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/AlliumBanner" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/HollyhockBanner" },
+    "ShopId": "Carpenter",
+    "Cost": 800,
+    "DynamicFields": [
+      {
+        "Conditions": { "DayOfWeek |contains=Friday": false},
+        "Enabled": false,
+      }
+    ]
+  },
+
+  // Sell banner at Hat Mouse always
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/IrisBanner" },
+    "ShopId": "HatMouse",
+    "Cost": 800,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/ForgetMeNotBanner" },
+    "ShopId": "HatMouse",
+    "Cost": 800,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/AsterBanner" },
+    "ShopId": "HatMouse",
+    "Cost": 800,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/PoppyBanner" },
+    "ShopId": "HatMouse",
+    "Cost": 800,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/RoseBanner" },
+    "ShopId": "HatMouse",
+    "Cost": 800,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/AlliumBanner" },
+    "ShopId": "HatMouse",
+    "Cost": 800,
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners/HollyhockBanner" },
+    "ShopId": "HatMouse",
+    "Cost": 800,
+  },
+
+]

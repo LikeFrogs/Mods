@@ -1,0 +1,626 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wood Dining Chair",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:0",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Down"
+			},			
+			{
+				"Texture": "assets/2x1.png:1",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Right"
+			},			
+			{
+				"FrontTexture": "assets/2x1.png:2",
+				"Texture": "assets/2x1.png:2",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Up"
+			},	
+			{
+				"Texture": "assets/2x1.png:1",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Flipped": "True",
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Left"
+			},
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Wood Dining Chair 2",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:3",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Down"
+			},			
+			{
+				"Texture": "assets/2x1.png:4",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Right"
+			},			
+			{
+				"FrontTexture": "assets/2x1.png:5",
+				"Texture": "assets/2x1.png:5",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Up"
+			},	
+			{
+				"Texture": "assets/2x1.png:4",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Flipped": "True",
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Left"
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Cushioned Dining Chair",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:6",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Down"
+			},			
+			{
+				"Texture": "assets/2x1.png:7",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Right"
+			},			
+			{
+				"FrontTexture": "assets/2x1.png:8",
+				"Texture": "assets/2x1.png:8",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Up"
+			},	
+			{
+				"Texture": "assets/2x1.png:7",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Flipped": "True",
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Left"
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Cushioned Dining Chair 2",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:21",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Down"
+			},			
+			{
+				"Texture": "assets/2x1.png:22",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Right"
+			},			
+			{
+				"FrontTexture": "assets/2x1.png:23",
+				"Texture": "assets/2x1.png:23",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Up"
+			},	
+			{
+				"Texture": "assets/2x1.png:22",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Flipped": "True",
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Left"
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "White Armchair",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:14",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0.5, "Y": 0 } ],
+				"SittingDirection": "Down"
+			},			
+			{
+				"Texture": "assets/2x2.png:15",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+			},			
+			{
+				"FrontTexture": "assets/2x2.png:16",
+				"Texture": "assets/2x2.png:16",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0.5, "Y": 0 } ],
+				"SittingDirection": "Up"
+			},	
+			{
+				"Texture": "assets/2x2.png:15",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"Flipped": "True",
+				"Seats": [ { "X": 0.5, "Y": 0 } ],
+				"SittingDirection": "Left"
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Red Armchair",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:28",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0.5, "Y": 0 } ],
+				"SittingDirection": "Down"
+			},			
+			{
+				"Texture": "assets/2x2.png:29",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+			},			
+			{
+				"FrontTexture": "assets/2x2.png:30",
+				"Texture": "assets/2x1.png:5",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0.5, "Y": 0 } ],
+				"SittingDirection": "Up"
+			},	
+			{
+				"Texture": "assets/2x2.png:29",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"Flipped": "True",
+				"Seats": [ { "X": 0.5, "Y": 0 } ],
+				"SittingDirection": "Left"
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Stool",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:30",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Any"
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Cushioned Stool",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:9",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"Seats": [ { "X": 0, "Y": 0 } ],
+				"SittingDirection": "Any"
+			},
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Piano Seat",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:51",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Any"
+			},
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "bench 1",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:10",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Down",
+				"Seats": [
+				{"X": 0.5, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:0",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Seats": [
+				{"X": 0, "Y": 0.5}
+				]
+			},
+			{
+				"FrontTexture": "assets/2x2.png:11",
+				"Texture": "assets/2x2.png:11",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Up",
+				"Seats": [
+				{"X": 0.5, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:0",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Left",
+				"Flipped": "True",
+				"Seats": [
+				{"X": 0, "Y": 0.5}
+				]
+			}
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "bench 2",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:24",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Down",
+				"Seats": [
+				{"X": 0.5, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:1",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Seats": [
+				{"X": 0, "Y": 0.5}
+				]
+			},
+			{
+				"FrontTexture": "assets/2x2.png:25",
+				"Texture": "assets/2x2.png:11",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Up",
+				"Seats": [
+				{"X": 0.5, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:1",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Left",
+				"Flipped": "True",
+				"Seats": [
+				{"X": 0, "Y": 0.5}
+				]
+			}
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "bench 3",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:40",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Down",
+				"Seats": [
+				{"X": 0.5, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:18",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Seats": [
+				{"X": 0, "Y": 0.5}
+				]
+			},
+			{
+				"FrontTexture": "assets/2x2.png:13",
+				"Texture": "assets/2x2.png:11",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Up",
+				"Seats": [
+				{"X": 0.5, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:18",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Left",
+				"Flipped": "True",
+				"Seats": [
+				{"X": 0, "Y": 0.5}
+				]
+			}
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "bench 4",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:27",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Down",
+				"Seats": [
+				{"X": 0.5, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:19",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Seats": [
+				{"X": 0, "Y": 0.5}
+				]
+			},
+			{
+				"FrontTexture": "assets/2x2.png:41",
+				"Texture": "assets/2x2.png:11",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Up",
+				"Seats": [
+				{"X": 0.5, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:19",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Left",
+				"Flipped": "True",
+				"Seats": [
+				{"X": 0, "Y": 0.5}
+				]
+			}
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Backless Couch",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:52",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Down",
+				"Seats": [
+				{"X": 0, "Y": 0},
+				{"X": 1, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x1.png:3",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Seats": [
+				{"X": 0, "Y": 0},
+				{"X": 0, "Y": 1}
+				]
+			}
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "White Big Couch",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x3.png:10",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Down",
+				"Seats": [
+				{"X": 0.25, "Y": 0},
+				{"X": 1, "Y": 0},
+				{"X": 1.75, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x2.png:9",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Seats": [
+				{"X": 1, "Y": 0},
+				{"X": 1, "Y": 0.25},
+				{"X": 1, "Y": 0.75}
+				]
+			},
+			{
+				"FrontTexture": "assets/2x3.png:11",
+				"Texture": "assets/2x3.png:11",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Up",
+				"Seats": [
+				{"X": 0.25, "Y": 0},
+				{"X": 1, "Y": 0},
+				{"X": 1.75, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x2.png:9",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Flipped": "True",
+				"Seats": [
+				{"X": 1, "Y": 0}
+				]
+			}
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "Red Big Couch",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x3.png:15",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Down",
+				"Seats": [
+				{"X": 0.25, "Y": 0},
+				{"X": 1, "Y": 0},
+				{"X": 1.75, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x2.png:10",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Seats": [
+				{"X": 1, "Y": 0},
+				{"X": 1, "Y": 0.25},
+				{"X": 1, "Y": 0.75}
+				]
+			},
+			{
+				"FrontTexture": "assets/2x3.png:16",
+				"Texture": "assets/2x3.png:11",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Up",
+				"Seats": [
+				{"X": 0.25, "Y": 0},
+				{"X": 1, "Y": 0},
+				{"X": 1.75, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x2.png:10",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Flipped": "True",
+				"Seats": [
+				{"X": 1, "Y": 0}
+				]
+			}
+		]
+	},
+		{
+		"$ItemType": "Furniture",
+		"ID": "White Lounge",
+		"Type": "Chair",
+		"Configurations": [
+			{
+				"Texture": "assets/2x3.png:12",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Down",
+				"Seats": [
+				{"X": 0.25, "Y": 0},
+				{"X": 1, "Y": 0},
+				{"X": 1.75, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x2.png:11",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Seats": [
+				{"X": 1, "Y": 0},
+				{"X": 1, "Y": 0.25},
+				{"X": 1, "Y": 0.75}
+				]
+			},
+			{
+				"FrontTexture": "assets/2x3.png:13",
+				"Texture": "assets/2x3.png:13",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 1,
+				"SittingDirection": "Up",
+				"Seats": [
+				{"X": 0.25, "Y": 0},
+				{"X": 1, "Y": 0},
+				{"X": 1.75, "Y": 0}
+				]
+			},
+			{
+				"Texture": "assets/3x2.png:11",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 2,
+				"SittingDirection": "Right",
+				"Flipped": "True",
+				"Seats": [
+				{"X": 1, "Y": 0}
+				]
+			}
+		]
+	},
+	
+	
+]
+
+
+

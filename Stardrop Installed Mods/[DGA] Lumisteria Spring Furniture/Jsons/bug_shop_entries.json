@@ -1,0 +1,799 @@
+[
+  // Sell a few bugs at Krobus' shop on Tuesdays, Thursdays, and Sundays during spring
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug1" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 2,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug2" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 2,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug3" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 2,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug4" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 4,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug5" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 4,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug6" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 4,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug7" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 7,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug8" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 7,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug9" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 7,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug10" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 9,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug11" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 9,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug12" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 9,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug13" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 11,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug14" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 11,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug15" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 11,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug16" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 14,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug17" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 14,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug18" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 14,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug19" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 16,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug20" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 16,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug21" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 16,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug22" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 18,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug23" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 18,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug24" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 18,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug25" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 21,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug26" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 21,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug27" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 21,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug28" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 23,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug29" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 23,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug30" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 23,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug31" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 25,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug32" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 25,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug33" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 25,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug34" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 28,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug35" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 28,
+    },
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug36" },
+    "ShopId": "Krobus",
+    "Cost": 250,
+    "EnableConditions": {
+      "Season": "spring",
+      "Day": 28,
+    },
+  },
+  
+
+  // Sell bug posters at Hat Mouse always during spring
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug1" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug2" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug3" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug4" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug5" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug6" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug7" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug8" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug9" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug10" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug11" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug12" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug13" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug14" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug15" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug16" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug17" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug18" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug19" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug20" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug21" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug22" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug23" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug24" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug25" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug26" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug27" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug28" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug29" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug30" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug31" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug32" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug33" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug34" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug35" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+  {
+    "$ItemType": "ShopEntry",
+    "Item": { "Value": "Lumisteria.DynamicGameAssets.SpringFurniture/Bug36" },
+    "ShopId": "HatMouse",
+    "Cost": 250,
+    "DynamicFields": [
+      {
+        "Conditions": { "Season |contains=spring": false},
+        "Enabled": false,
+      }
+    ]
+  },
+
+]

@@ -1,0 +1,362 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Sidetable",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:18",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Sidetable 5",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:41",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Sidetable 2",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:20",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Glass Top",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x3.png:1",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 2
+			},			
+			{
+				"Texture": "assets/3x2.png:8",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/2x3.png:0",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 2
+			},			
+			{
+				"Texture": "assets/3x2.png:8",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3,
+				"Flipped": "True",
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Brighter Table",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x3.png:5",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 2
+			},			
+			{
+				"Texture": "assets/3x2.png:7",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/2x3.png:2",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 2
+			},	
+			{
+				"Texture": "assets/3x2.png:7",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3,
+				"Flipped": "True",
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Muted Table",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x3.png:7",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 2
+			},			
+			{
+				"Texture": "assets/3x2.png:6",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},	
+			{
+				"Texture": "assets/2x3.png:6",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Sidetable 3",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:62",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Sidetable 4",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:83",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Glass Top Small",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:46",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Brighter Small",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:47",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Muted Small",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:48",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Round",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:37",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Round Bright Covered",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:23",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Round Muted Covered",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:8",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Muted Tea",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:50",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Bright Tea",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:49",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Desk",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:9",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Round Fancy",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/3x2.png:12",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 3
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Glass Flower",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/3x5.png:0",
+				"DisplaySize": { "X": 5, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/5x2.png:0",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 4
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Cherry Clutter",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/3x5.png:1",
+				"DisplaySize": { "X": 5, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/5x2.png:3",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 4
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Walnut Clutter",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/3x5.png:2",
+				"DisplaySize": { "X": 5, "Y": 3 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/5x2.png:1",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 2
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Cherry",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/3x5.png:3",
+				"DisplaySize": { "X": 5, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/5x2.png:5",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 4
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Glass",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/3x5.png:4",
+				"DisplaySize": { "X": 5, "Y": 3 },
+				"CollisionHeight": 3
+			},
+			{
+				"Texture": "assets/5x2.png:4",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 4
+			},
+	]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Walnut",
+		"Type": "Table",
+		"Configurations": [
+			{
+				"Texture": "assets/3x5.png:5",
+				"DisplaySize": { "X": 5, "Y": 3 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/5x2.png:2",
+				"DisplaySize": { "X": 2, "Y": 5 },
+				"CollisionHeight": 4
+			},
+		]
+	},
+]

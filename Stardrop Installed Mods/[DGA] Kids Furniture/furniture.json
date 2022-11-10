@@ -1,0 +1,428 @@
+[
+    {
+        "$ItemType": "Furniture",
+        "ID": "largeswings",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/largeswings.png",
+                "DisplaySize": { "X": 5, "Y": 5 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "smallswings",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/smallswings.png",
+                "DisplaySize": { "X": 3, "Y": 5 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "climbingwall",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/climbingwall.png",
+                "DisplaySize": { "X": 5, "Y": 5 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "bouncyduck",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/bouncyduck.png",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "sandbox",
+        "Type": "Rug",
+        "Configurations": [
+            {
+                "Texture": "assets/sandbox.png:0",
+                "DisplaySize": { "X": 3, "Y": 2 },
+                "CollisionHeight": 2,
+            },
+            {
+                "Texture": "assets/sandbox.png:4",
+                "DisplaySize": { "X": 2, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "purplesandbox",
+        "Type": "Rug",
+        "Configurations": [
+            {
+                "Texture": "assets/sandbox.png:1",
+                "DisplaySize": { "X": 3, "Y": 2 },
+                "CollisionHeight": 2,
+            },
+            {
+                "Texture": "assets/sandbox.png:8",
+                "DisplaySize": { "X": 2, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "bluesandbox",
+        "Type": "Rug",
+        "Configurations": [
+            {
+                "Texture": "assets/sandbox.png:2",
+                "DisplaySize": { "X": 3, "Y": 2 },
+                "CollisionHeight": 2,
+            },
+            {
+                "Texture": "assets/sandbox.png:12",
+                "DisplaySize": { "X": 2, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "childdrawing",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/childdrawing.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "fingerpaintings",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/fingerpaintings.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "wallnotes",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/wallnotes.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "stickynotes",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/stickynotes.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "toydino",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/toydino.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "playdough",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/playdough.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "decortable",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/decortable.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "purpletable",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/purpletable.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "greentable",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/greentable.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "nailpolish",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/nailpolish.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "toybox",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/toybox.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "bluestool",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/bluestool.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "pinkstool",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/pinkstool.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "soccerball",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/soccerball.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "football",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/football.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "dollcollection",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dollcollection.png",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "heartposter",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/heartposter.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "planeposter",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/planeposter.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "fallenbook",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/fallenbook.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "heartsticker",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/heartsticker.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "toyblocks",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/toyblocks.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "dollhouse",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dollhouse.png",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "sockmonkey",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/sockmonkey.png",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "jackinthebox",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/jackinthebox.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "asstdtoys",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/asstdtoys.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "things",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/things.png",
+                "DisplaySize": { "X": 1, "Y": 1 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "cuteposter",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/cuteposter.png",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    }
+]

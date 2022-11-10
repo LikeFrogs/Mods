@@ -1,0 +1,242 @@
+[
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Furnace0"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 10000,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Shovel1"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 100,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Chart2"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 500,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Anvil3"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1000,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Tools4"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 300,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/SpecificTools5"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 400,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/BlacksmithSign6"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 300,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Apron7"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 700,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Tinymountedanvil8"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 700,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Smallbucketofcoal9"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 200,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Hammer10"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 100,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Smallbucket11"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 100,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Thinchains12"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 700,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Thickchains13"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 800,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Brush14"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 100,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Rake15"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 300,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Largebucketofcoal16"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 900,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/WaterBucket17"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 600,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Smallwaterbucket18"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 500,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    },
+    {
+        "$ItemType": "ShopEntry",
+        "Item": {
+            "Value": "Spotteddotted.DGA.BlacksmithFurniture/Toolrack19"
+        },
+        "ShopId": "Carpenter",
+        "MaxSold": 1,
+        "Cost": 1500,
+        "EnableConditions": {
+            "DayOfWeek": "Friday",
+        }
+    }
+]

@@ -1,0 +1,1247 @@
+[
+
+//Please work
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "ElegantTable0",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:5",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechSmallTable1",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:85",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "OrnateTable2",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:3",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "DinnerTable3",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:4",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechTeaTable4",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:32",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechEndTable5",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:12",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:13",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            },
+        ]
+    },
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "LongEndTable6",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:9",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechSideboard7",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:67",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:48",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }			
+			
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechDesk8",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:31",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:48",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }			
+			
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechConsole9",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:68",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:66",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }			
+			
+        ]
+    },		
+    {
+        "$ItemType": "Furniture",
+        "ID": "ToyBoxTable10",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:64",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:71",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }			
+			
+        ]
+    },		
+    {
+        "$ItemType": "Furniture",
+        "ID": "ToyBoxDecor11",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:30",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }			
+			
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechDresser12",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:23",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:26",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            },			
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:27",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:26",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }			
+        ]
+    },		
+    {
+        "$ItemType": "Furniture",
+        "ID": "SewingCabinet13",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:33",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "ClothesCubbies14",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:28",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "TallBeechDresser15",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:36",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "SimpleBookcase16",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:32",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "ElegantCabinet17",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:9",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "LargeElegantCabinet18",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:5",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealArmchair19",
+        "Type": "Armchair",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:38",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0.5,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Down",
+                "FrontTexture": "assets/dga_front_tilesheet.png:38"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:39",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Right",
+                "FrontTexture": "assets/dga_front_tilesheet.png:39"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:40",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0.5,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Up",
+                "FrontTexture": "assets/dga_front_tilesheet.png:40"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:41",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Left",
+                "FrontTexture": "assets/dga_front_tilesheet.png:41"
+            }
+        ]
+    },	
+   {
+        "$ItemType": "Furniture",
+        "ID": "TealCouch20",
+        "Type": "Armchair",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:8",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Down",
+                "FrontTexture": "assets/dga_front_tilesheet.png:8"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:11",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Right",
+                "FrontTexture": "assets/dga_front_tilesheet.png:11"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:14",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Up",
+                "FrontTexture": "assets/dga_front_tilesheet.png:14"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:12",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Left",
+                "FrontTexture": "assets/dga_front_tilesheet.png:12"
+            }
+        ]
+    },				
+    {
+        "$ItemType": "Furniture",
+        "ID": "SimpleBeechStool21",
+        "Type": "Armchair",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:14",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Any",
+                "FrontTexture": "assets/dga_front_tilesheet.png:110"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealCushion22",
+        "Type": "Rug",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:111",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealRug23",
+        "Type": "Rug",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:39",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:42",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 3
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CushionedChair24",
+        "Type": "Armchair",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:112",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Down",
+                "FrontTexture": "assets/dga_front_tilesheet.png:112"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:113",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Right",
+                "FrontTexture": "assets/dga_front_tilesheet.png:113"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:114",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Up",
+                "FrontTexture": "assets/dga_front_tilesheet.png:114"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:115",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Left",
+                "FrontTexture": "assets/dga_front_tilesheet.png:115"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "SimpleChair25",
+        "Type": "Armchair",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:91",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Down",
+                "FrontTexture": "assets/dga_front_tilesheet.png:91"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:92",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Right",
+                "FrontTexture": "assets/dga_front_tilesheet.png:92"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:93",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Up",
+                "FrontTexture": "assets/dga_front_tilesheet.png:93"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:94",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Left",
+                "FrontTexture": "assets/dga_front_tilesheet.png:94"
+            }
+        ]
+    },
+   {
+        "$ItemType": "Furniture",
+        "ID": "BeechBench26",
+        "Type": "Armchair",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:34",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    },				
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Down",
+                "FrontTexture": "assets/dga_front_tilesheet.png:34"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:74",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 2,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Right",
+                "FrontTexture": "assets/dga_front_tilesheet.png:74"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:35",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    },
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Up",
+                "FrontTexture": "assets/dga_front_tilesheet.png:35"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:75",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 2,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Left",
+                "FrontTexture": "assets/dga_front_tilesheet.png:75"
+            }
+        ]
+    },				
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechStool27",
+        "Type": "Armchair",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:110",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Any",
+                "FrontTexture": "assets/dga_front_tilesheet.png:110"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "ElegantFoldingScreen28",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:10",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "LargeElegantFoldingScreen29",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:1",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechShelf30",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:86",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 1
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechShelf31",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:127",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechShelf32",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:54",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "BeechShelf33",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:135",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 1
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CurtainedWindow34",
+        "Type": "Window",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:96",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2,
+                "NightTexture": "assets/dga_furniture_tilesheet.png:97"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Lamp35",
+        "Type": "Lamp",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:195",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1,
+                "NightTexture": "assets/dga_furniture_tilesheet.png:207"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Sunflowers36",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:14",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "Island37",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:113",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },		
+    {
+        "$ItemType": "Furniture",
+        "ID": "F38",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:140",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },		
+    {
+        "$ItemType": "Furniture",
+        "ID": "FruitHarvest39",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:0",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 1
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },		
+    {
+        "$ItemType": "Furniture",
+        "ID": "FieldOfPoppies40",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:62",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "Music41",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:37",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "MedalDisplay42",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:63",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },	
+    {
+        "$ItemType": "Furniture",
+        "ID": "HangingDecorations43",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:211",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealHangingStar44",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:202",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "GoldenHangingStar45",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:224",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealHangingMoon46",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:213",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "GoldenHangingMoon47",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:236",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealHangingSun48",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:214",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "GoldenHangingSun49",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:179",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealHangingJunimo50",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:200",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "GoldenHangingJunimo51",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:112",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealStarJunimo52",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:86",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "GoldenStarJunimo53",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:87",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "TealPlushJunimo54",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:201",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WoodenTrain55",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:6",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "FlowerVase56",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:98",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+
+]

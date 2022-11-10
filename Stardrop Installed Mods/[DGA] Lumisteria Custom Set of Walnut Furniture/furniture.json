@@ -1,0 +1,1040 @@
+[
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTableCreamyLacyTablecloth0",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:3",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTable1",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:4",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTableCreamyTablecloth2",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:5",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutBookcase3",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:8",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutBookcase4",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:15",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutCabinet5",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:9",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutCabinet6",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:26",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTableCreamyLacyTablecloth7",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:23",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTable8",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:27",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTableCreamyLacyTablecloth9",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:41",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTable10",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:45",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutEndTableCreamyLacyTablecloth11",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:28",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutEndTable12",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:29",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutVintageRadioFurniture13",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:30",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "TileProperties": {
+                    "0, 0": {
+                        "Buildings": {
+                            "Action": "Action Jukebox"
+                     }
+                  },
+                     "1, 0": {
+                        "Buildings": {
+                            "Action": "Action Jukebox"
+                     }
+                  },
+               }
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutDesk14",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:31",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutEndTable15",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:53",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutEndTable16",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:84",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTeaTable17",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:32",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutTableCreamyTablecloth18",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:85",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "SewingCabinet19",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:33",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutDresserCreamyLacyTablecloth20",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:34",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WalnutStool21",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:110",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Any",
+                "FrontTexture": "assets/dga_front_tilesheet.png:110"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CreamyCushion22",
+        "Type": "Rug",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:111",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "RockingHorse23",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:35",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "SpinningWheel24",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:36",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "LavenderFields25",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:37",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WoodenJunimo26",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:86",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CreamyJunimo27",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:87",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Junimo28",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:112",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Junimo29",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:199",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Junimo30",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:200",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Junimo31",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:201",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Lamp32",
+        "Type": "Lamp",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:88",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "NightTexture": "assets/dga_furniture_tilesheet.png:89"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CreamyFoldingScreen33",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:10",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CreamyFoldingScreen34",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:1",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CreamyArmchair35",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:38",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Down",
+                "FrontTexture": "assets/dga_front_tilesheet.png:38"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:39",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Right",
+                "FrontTexture": "assets/dga_front_tilesheet.png:39"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:40",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Up",
+                "FrontTexture": "assets/dga_front_tilesheet.png:40"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:41",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Left",
+                "FrontTexture": "assets/dga_front_tilesheet.png:41"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Mirror36",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:90",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CreamyCouch37",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:8",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Down",
+                "FrontTexture": "assets/dga_front_tilesheet.png:8"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:11",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Right",
+                "FrontTexture": "assets/dga_front_tilesheet.png:11"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:14",
+                "DisplaySize": {
+                    "X": 3,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 1,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Up",
+                "FrontTexture": "assets/dga_front_tilesheet.png:14"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:12",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 3
+                },
+                "CollisionHeight": 2,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Left",
+                "FrontTexture": "assets/dga_front_tilesheet.png:12"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Game38",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:202",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CreamyFabric39",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:203",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "HangingDecorations40",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:211",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CushionedChair41",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:91",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Down",
+                "FrontTexture": "assets/dga_front_tilesheet.png:91"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:92",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Right",
+                "FrontTexture": "assets/dga_front_tilesheet.png:92"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:93",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Up",
+                "FrontTexture": "assets/dga_front_tilesheet.png:93"
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:94",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1,
+                "Seats": [
+                    {
+                        "X": 0,
+                        "Y": 0
+                    }
+                ],
+                "SittingDirection": "Left",
+                "FrontTexture": "assets/dga_front_tilesheet.png:94"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Moon42",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:212",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "CreamyRug43",
+        "Type": "Rug",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:54",
+                "DisplaySize": {
+                    "X": 2,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            },
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:95",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "SmallWindows44",
+        "Type": "Window",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:96",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2,
+                "NightTexture": "assets/dga_furniture_tilesheet.png:97"
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "PorcelainVase45",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:213",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 1
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "PorcelainVaseWithLavender46",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:98",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Dresser47",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:99",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "EndTable48",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:100",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "WashBasin49",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:101",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bookcase50",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:27",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Cabinet51",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:28",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 3
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bookcase52",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:0",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 4
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bookcase53",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:1",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 4
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bookcase54",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:2",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 4
+                },
+                "CollisionHeight": 1
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Towel55",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "assets/dga_furniture_tilesheet.png:102",
+                "DisplaySize": {
+                    "X": 1,
+                    "Y": 2
+                },
+                "CollisionHeight": 2
+            }
+        ]
+    }
+]

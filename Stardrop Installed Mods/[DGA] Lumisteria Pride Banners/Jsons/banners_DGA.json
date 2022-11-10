@@ -1,0 +1,93 @@
+[
+    // Load in the banners
+    {
+        "$ItemType": "Furniture",
+        "ID": "IrisBanner",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaflowerpridebanners.png:0",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+        ]
+    },
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "ForgetMeNotBanner",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaflowerpridebanners.png:1",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+        ]
+    },
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "AsterBanner",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaflowerpridebanners.png:2",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+        ]
+    },
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "PoppyBanner",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaflowerpridebanners.png:3",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+        ]
+    },
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "RoseBanner",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaflowerpridebanners.png:4",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+        ]
+    },
+
+    {
+        "$ItemType": "Furniture",
+        "ID": "AlliumBanner",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaflowerpridebanners.png:5",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+        ]
+    },
+	
+    {
+        "$ItemType": "Furniture",
+        "ID": "HollyhockBanner",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaflowerpridebanners.png:6",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 3,
+            }
+        ]
+    },
+]

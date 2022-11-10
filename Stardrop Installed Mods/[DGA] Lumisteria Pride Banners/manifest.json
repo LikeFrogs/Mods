@@ -1,0 +1,14 @@
+{
+  "Name": "Lumisteria Flower Pride Banners",
+  "Author": "Lumisteria",
+  "Version": "1.0.1",
+  "Description": "Some Flower Pride Banners.",
+  "UniqueID": "Lumisteria.DynamicGameAssets.DGAFlowerPrideBanners",
+  "UpdateKeys": ["Nexus:9733@Banners"],
+  "ContentPackFor": {
+    "UniqueID": "spacechase0.DynamicGameAssets",
+    "MinimumVersion": "1.1.0"
+  },
+  "DGA.FormatVersion": 2,
+  "DGA.ConditionsFormatVersion": "1.23.0"
+}

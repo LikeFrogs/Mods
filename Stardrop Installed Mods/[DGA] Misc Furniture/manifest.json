@@ -1,0 +1,14 @@
+{
+    "Name": "Misc Furniture",
+    "Author": "Spotteddotted & CyanFire",
+    "Version": "1.0.0",
+    "Description": "Adds new furniture to game, DGA conversion",
+    "UniqueID": "Spotteddotted.DGA.MiscFurniture",
+    "UpdateKeys": ["Nexus:12782"],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.DynamicGameAssets",
+        "MinimumVersion": "1.4.2"
+    },
+    "DGA.FormatVersion": 2,
+    "DGA.ConditionsFormatVersion": "1.25.0"
+}

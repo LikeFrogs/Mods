@@ -1,0 +1,529 @@
+[
+	{
+		"$ItemType": "Furniture",
+		"ID": "Tiny Teddy",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:2",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Rotary Phone",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:3",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Teacup",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:6",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			}
+		]
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Standing Phone",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:7",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Flowers",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:4",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Lantern",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:0",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Tiny Teddy (White)",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:8",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Globe",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:9",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Skull",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:1",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Candle",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/1x1.png:5",
+				"DisplaySize": { "X": 1, "Y": 1 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Statue",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:39",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Phonograph",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:40",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Candelabra",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:57",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Books 1",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:16",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Books 2",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:17",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Music Stand",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:31",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Tall Lamp",
+		"Type": "Lamp",
+		"Configurations": [
+			{
+				"NightTexture": "assets/2x1.png:34",
+				"Texture": "assets/2x1.png:33",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Lamp",
+		"Type": "Lamp",
+		"Configurations": [
+			{
+				"NightTexture": "assets/2x1.png:36",
+				"Texture": "assets/2x1.png:35",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Small Lamp",
+		"Type": "Lamp",
+		"Configurations": [
+			{
+				"NightTexture": "assets/2x1.png:38",
+				"Texture": "assets/2x1.png:37",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Amp",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:10",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+	]			
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Small Amp",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x1.png:13",
+				"DisplaySize": { "X": 1, "Y": 2 },
+				"CollisionHeight": 1
+			},
+	]			
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Suitcases 1",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:0",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 1
+			},
+	]			
+	},	
+	{
+		"$ItemType": "Furniture",
+		"ID": "Suitcase",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:2",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Bear",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:21",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Bun",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:35",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Shelf",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:53",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Drawers",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:17",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/2x2.png:18",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Drawers Short",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:19",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/2x2.png:20",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Table Thing",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x2.png:31",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/2x2.png:32",
+				"DisplaySize": { "X": 2, "Y": 2 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Dresser Set",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/2x3.png:3",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/3x1.png:10",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/2x3.png:8",
+				"DisplaySize": { "X": 3, "Y": 2 },
+				"CollisionHeight": 2
+			},
+			{
+				"Texture": "assets/3x1.png:10",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2,
+				"Flipped": "True",
+			},
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Bookshelf1",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x1.png:7",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Bookshelf2",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x1.png:8",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 2
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Tree",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x1.png:9",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Coatrack",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x1.png:17",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Clock",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x1.png:20",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Dresser",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x2.png:3",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "China Cabinet",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x2.png:4",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Big Bookshelf",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x2.png:5",
+				"DisplaySize": { "X": 2, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Armoire",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/3x3.png:0",
+				"DisplaySize": { "X": 3, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Xmas Tree",
+		"Type": "Decoration",
+		"Configurations": [
+			{
+				"Texture": "assets/5x3.png:0",
+				"DisplaySize": { "X": 3, "Y": 5 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+	{
+		"$ItemType": "Furniture",
+		"ID": "Biggest Lamp",
+		"Type": "Lamp",
+		"Configurations": [
+			{
+				"NightTexture": "assets/3x1.png:14",
+				"Texture": "assets/3x1.png:13",
+				"DisplaySize": { "X": 1, "Y": 3 },
+				"CollisionHeight": 1
+			}
+		]
+	},
+]	

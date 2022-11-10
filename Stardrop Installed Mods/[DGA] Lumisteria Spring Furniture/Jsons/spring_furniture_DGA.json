@@ -1,0 +1,207 @@
+[
+    // Load in the spring furniture
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bunny37",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:18",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Elephant38",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:20",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Tiger39",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:19",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 2,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Cabinet40",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:4",
+                "DisplaySize": { "X": 3, "Y": 3 },
+                "CollisionHeight": 1,
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Dresser41",
+        "Type": "Dresser",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:28",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 1,
+                "Flipped": false
+            },
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:15",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 2,
+                "Flipped": false
+            },
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:28",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 1,
+                "Flipped": false
+            },
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:15",
+                "DisplaySize": { "X": 1, "Y": 3 },
+                "CollisionHeight": 2,
+                "Flipped": true
+            }
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Table42",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:58",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            },
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:59",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            },
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Painting43",
+        "Type": "Painting",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:21",
+                "DisplaySize": { "X": 2, "Y": 2 },
+                "CollisionHeight": 2,
+            },
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Tree44",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:44",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+            },
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Rug45",
+        "Type": "Rug",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:16",
+                "DisplaySize": { "X": 3, "Y": 2 },
+                "CollisionHeight": 2,
+            },
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:8",
+                "DisplaySize": { "X": 2, "Y": 3 },
+                "CollisionHeight": 3,
+            },
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Chair46",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:51",
+                "FrontTexture": "Assets/lumisteriaspringfurnitures.png:45",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+                "Flipped": false,
+                "Seats": [{"X": 0, "Y": 0}],
+                "SittingDirection": "Down",
+            },
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:52",
+                "FrontTexture": "Assets/lumisteriaspringfurnitures.png:45",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+                "Flipped": false,
+                "Seats": [{"X": 0, "Y": 0}],
+                "SittingDirection": "Right",
+            },
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:53",
+                "FrontTexture": "Assets/lumisteriaspringfurnitures.png:54",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+                "Flipped": false,
+                "Seats": [{"X": 0, "Y": 0}],
+                "SittingDirection": "Up",
+            },
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:52",
+                "FrontTexture": "Assets/lumisteriaspringfurnitures.png:45",
+                "DisplaySize": { "X": 1, "Y": 2 },
+                "CollisionHeight": 1,
+                "Flipped": true,
+                "Seats": [{"X": 0, "Y": 0}],
+                "SittingDirection": "Left",
+            },
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Table47",
+        "Type": "Table",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:9",
+                "DisplaySize": { "X": 2, "Y": 3 },
+                "CollisionHeight": 2,
+            },
+        ]
+    },
+    {
+        "$ItemType": "Furniture",
+        "ID": "Bookcase48",
+        "Type": "Decoration",
+        "Configurations": [
+            {
+                "Texture": "Assets/lumisteriaspringfurnitures.png:10",
+                "DisplaySize": { "X": 2, "Y": 3 },
+                "CollisionHeight": 1,
+            },
+        ]
+    },
+]

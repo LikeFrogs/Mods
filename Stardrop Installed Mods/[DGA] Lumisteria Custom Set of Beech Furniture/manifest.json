@@ -1,0 +1,15 @@
+{
+    "Name": "Lumisteria Custom Set of Beech Furniture",
+    "Author": "Lumisteria",
+	//Converted by Poltergeister
+    "Version": "1.0.0",
+    "Description": "A custom set of beech and teal furniture.",
+    "UniqueID": "Lumisteria.DGA.LumisteriaBeechFurniture",
+    "UpdateKeys": ["Nexus:9733@Beech"],
+    "ContentPackFor": {
+        "UniqueID": "spacechase0.DynamicGameAssets",
+        "MinimumVersion": "1.4.2"
+    },
+    "DGA.FormatVersion": 2,
+    "DGA.ConditionsFormatVersion": "1.25.0"
+}
