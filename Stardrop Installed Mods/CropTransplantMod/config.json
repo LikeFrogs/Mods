@@ -10,7 +10,7 @@
   "EnablePlacementOfTreesOnAnyTileType": false,
   "EnableToPlantTeaBushesOutOfTheFarm": false,
   "EnableToPlantTeaBushesOnAnyTileType": false,
-  "EnableSoilTileUnderTrees": true,
+  "EnableSoilTileUnderTrees": false,
   "FruitTreeTransplantEnergyCostPerStage": [
     4.0,
     4.0,

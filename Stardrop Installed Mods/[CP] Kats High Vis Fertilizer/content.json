@@ -1,0 +1,11 @@
+{
+    "Format": "1.4",
+    "Changes": [
+		{
+          "Action": "EditImage",
+          "Target": "LooseSprites/Cursors",
+          "FromFile": "assets/HighVisFertilizer.png",
+		  "ToArea": { "X": 173, "Y": 462, "Width": 48, "Height": 48 }
+		}
+	]
+}

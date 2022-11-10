@@ -1,7 +1,7 @@
 {
   "DisableDatingRequirement": false,
   "DisableEventRequirement": false,
-  "DisableJealousy": false,
+  "DisableJealousy": true,
   "DisableExhaustionReset": false,
   "RequiredFriendshipLevel": 8,
   "KissingFriendshipPoints": 10,

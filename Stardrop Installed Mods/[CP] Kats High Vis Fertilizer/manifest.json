@@ -1,0 +1,10 @@
+{
+   "Name": "Kats High Vis Fertilizer",
+   "Author": "Kattia",
+   "Description": "Makes fertilizer easier to see",
+   "Version": "1.0.0",
+   "UniqueID": "Kats.HighVisFertilizer",
+   "ContentPackFor": {
+       "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

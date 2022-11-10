@@ -1,0 +1,10 @@
+{
+	"Name": "[CP] Giant Melon and Cauliflower Retexture",
+	"Author": "6480",
+	"Description": "Replaces the giant cauliflower and melon with sprites that match the style of 6480's Giant Crops.",
+	"Version": "1.0.3",
+	"MinimumApiVersion": "3.1.0",
+	"UniqueID": "6480.giantcropsretexture",
+	"ContentPackFor": {"UniqueID": "Pathoschild.ContentPatcher"},
+	"UpdateKeys": [ "Nexus:5221@VanillaRetexture" ]
+}
