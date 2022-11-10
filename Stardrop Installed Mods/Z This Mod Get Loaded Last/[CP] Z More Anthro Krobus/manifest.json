@@ -1,0 +1,11 @@
+{
+  "Name": "More Anthro Krobus",
+  "Author": "starrybonns",
+  "Version": "1.0.0",
+  "Description": "",
+  "UniqueID": "sb.krobus",
+  "UpdateKeys": [ "Nexus:14049" ],
+  "ContentPackFor": {
+    "UniqueID": "Pathoschild.ContentPatcher"
+  }
+}

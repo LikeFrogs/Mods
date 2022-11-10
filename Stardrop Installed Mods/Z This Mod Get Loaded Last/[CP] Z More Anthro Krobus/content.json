@@ -1,0 +1,15 @@
+{
+    "Format": "1.19.0",
+    "Changes": [
+        {
+            "Action": "EditImage",
+            "Target": "Portraits/Krobus",//, Portraits/Krobus_Trenchcoat",
+            "FromFile": "assets/{{target}}_{{season}}.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "Characters/Krobus",//, Characters/Krobus_Trenchcoat",
+            "FromFile": "assets/{{target}}_{{season}}.png"
+        }
+    ]
+}
