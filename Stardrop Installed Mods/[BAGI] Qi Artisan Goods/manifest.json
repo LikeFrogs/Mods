@@ -1,0 +1,12 @@
+{
+  "Name": "100% Neccessary Qi Fruit BAGI Sprites",
+  "Author": "Ham",
+  "Version": "1.0",
+  "Description": "Adds sumptuous Artisan sprites for the overlooked and most valuable Qi Fruit.",
+  "UniqueID": "Ham.QiBAGI",
+  "ContentPackFor": {
+	"UniqueID": "cat.betterartisangoodicons"
+	},
+  "MinimumApiVersion": "3.8.3",
+  "UpdateKeys": [ ],
+}
