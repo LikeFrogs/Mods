@@ -8,7 +8,6 @@ Stardrop Installed Mods/DailyScreenshot
 */UIInfoSuite2/data/*.json
 */FarmTypeManager/data/*.json
 */ConvenientChests/savedata/*.json
-*/CustomPictureFrames/pictures/*
 
 #save files
 *.save
