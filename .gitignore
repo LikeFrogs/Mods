@@ -8,6 +8,7 @@ Stardrop Installed Mods/DailyScreenshot
 */UIInfoSuite2/data/*.json
 */FarmTypeManager/data/*.json
 */ConvenientChests/savedata/*.json
+*/CJBItemSpawner/*
 
 #save files
 *.save
