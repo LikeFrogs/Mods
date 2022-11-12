@@ -30,7 +30,7 @@
       }
     },
     {
-      "LogName": "Alecto's Rain Schedule - SVE patch",
+      "LogName": "Alecto's Schedule - SVE patches",
       "Action": "EditData",
       "Target": "Characters/Schedules/Alecto",
       "When": {
@@ -38,6 +38,10 @@
         "HasMod": "FlashShifter.StardewValleyExpandedCP"
       },
       "Entries": {
+        "spring": "610 Custom_Alecto_WitchHutUpstairs 6 9 2 alecto_meditate/800 Custom_Alecto_WitchHutUpstairs 6 10 2 alecto_spell/1500 Railroad 55 38 2/1800 Mountain 86 18 2/2200 Custom_Alecto_WitchHutUpstairs 11 4 0 alecto_sleep",
+        "summer": "610 Custom_Alecto_WitchHutUpstairs 6 9 2 alecto_meditate/800 Custom_Alecto_WitchHutUpstairs 6 10 2 alecto_spell/1500 Railroad 55 38 2/1800 Mountain 86 18 2/2200 Custom_Alecto_WitchHutUpstairs 11 4 0 alecto_sleep",
+        "fall": "610 Custom_Alecto_WitchHutUpstairs 6 9 2 alecto_meditate/800 Custom_Alecto_WitchHutUpstairs 6 10 2 alecto_spell/1500 Railroad 55 38 2/1800 Mountain 86 18 2/2200 Custom_Alecto_WitchHutUpstairs 11 4 0 alecto_sleep",
+        "winter": "610 Custom_Alecto_WitchHutUpstairs 6 9 2 alecto_meditate/800 Custom_Alecto_WitchHutUpstairs 6 10 2 alecto_spell/1500 Railroad 55 38 2/1800 Mountain 86 18 2/2200 Custom_Alecto_WitchHutUpstairs 11 4 0 alecto_sleep",
         "rain": "0 Woods 50 15 2/610 Woods 50 16 2 alecto_meditate/1000 Woods 37 49 1/1500 Woods 34 20 2/1900 Woods 53 23 3/2200 Custom_Alecto_WitchHutUpstairs 11 4 2 alecto_sleep"
       }
     },

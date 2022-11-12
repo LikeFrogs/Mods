@@ -2,7 +2,7 @@
   "Name": "Alecto the Witch",
   "Author": "ZoeDoll",
   "Description": "Alecto the Witch, a custom NPC",
-  "Version": "1.1.1",
+  "Version": "1.1.2",
   "UniqueID": "ZoeDoll.NPCAlecto",
   "UpdateKeys": [
     "Nexus:10671"
