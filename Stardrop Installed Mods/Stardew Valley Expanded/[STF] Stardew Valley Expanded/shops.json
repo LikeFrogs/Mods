@@ -1754,36 +1754,36 @@
 	"Quote": "I hab rare fish!",
 
 	"ItemStocks": [
-		{
-			"ItemType": "Object",
-			"ItemNames": [ "Legend" ],
-			"StockPrice": 30000,
-			"Stock": 1,
-		},
-		{
-			"ItemType": "Object",
-			"ItemNames": [ "Crimsonfish", ],
-			"StockPrice": 25000,
-			"Stock": 1,
-		},
-		{
-			"ItemType": "Object",
-			"ItemNames": [ "Glacierfish", ],
-			"Stock": 1,
-			"StockPrice": 20000,
-		},
-		{
-			"ItemType": "Object",
-			"ItemNames": [ "Mutant Carp", ],
-			"Stock": 1,
-			"StockPrice": 15000,
-		},
-		{
-			"ItemType": "Object",
-			"ItemNames": [ "Angler", ],
-			"Stock": 1,
-			"StockPrice": 10000,
-		},
+		//{
+		//	"ItemType": "Object",
+		//	"ItemNames": [ "Legend" ],
+		//	"StockPrice": 30000,
+		//	"Stock": 1,
+		//},
+		//{
+		//	"ItemType": "Object",
+		//	"ItemNames": [ "Crimsonfish", ],
+		//	"StockPrice": 25000,
+		//	"Stock": 1,
+		//},
+		//{
+		//	"ItemType": "Object",
+		//	"ItemNames": [ "Glacierfish", ],
+		//	"Stock": 1,
+		//	"StockPrice": 20000,
+		//},
+		//{
+		//	"ItemType": "Object",
+		//	"ItemNames": [ "Mutant Carp", ],
+		//	"Stock": 1,
+		//	"StockPrice": 15000,
+		//},
+		//{
+		//	"ItemType": "Object",
+		//	"ItemNames": [ "Angler", ],
+		//	"Stock": 1,
+		//	"StockPrice": 10000,
+		//},
 		{
 			"ItemType": "Object",
 			"ItemNames": [ "Slimejack", ],
